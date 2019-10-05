@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tn.insat.AppTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.021 s <<< FAILURE! - in tn.insat.AppTest
+initializationError(tn.insat.AppTest)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/hamcrest/SelfDescribing
+Caused by: java.lang.ClassNotFoundException: org.hamcrest.SelfDescribing
+

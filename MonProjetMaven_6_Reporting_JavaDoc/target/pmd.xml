@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.4.0" timestamp="2018-10-19T21:39:46.225">
+<file name="C:\Users\asus\Desktop\Mtibaa Amal\Qualité\qualitelogicielle-master\Code Source\MonProjetMaven_6_Reporting_JavaDoc\src\main\java\tn\insat\client\Utilisation.java">
+<violation beginline="11" endline="11" begincolumn="25" endcolumn="25" rule="UnusedLocalVariable" ruleset="Best Practices" package="tn.insat.client" class="Utilisation" method="main" variable="e" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_bestpractices.html#unusedlocalvariable" priority="3">
+Avoid unused local variables such as 'e'.
+</violation>
+</file>
+<file name="C:\Users\asus\Desktop\Mtibaa Amal\Qualité\qualitelogicielle-master\Code Source\MonProjetMaven_6_Reporting_JavaDoc\src\main\java\tn\insat\domain\Departement.java">
+<violation beginline="18" endline="18" begincolumn="37" endcolumn="40" rule="UnusedPrivateField" ruleset="Best Practices" package="tn.insat.domain" class="Departement" variable="staf" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'staf'.
+</violation>
+</file>
+<file name="C:\Users\asus\Desktop\Mtibaa Amal\Qualité\qualitelogicielle-master\Code Source\MonProjetMaven_6_Reporting_JavaDoc\src\main\java\tn\insat\domain\Employe.java">
+<violation beginline="15" endline="15" begincolumn="20" endcolumn="28" rule="UnusedPrivateField" ruleset="Best Practices" package="tn.insat.domain" class="Employe" variable="matricule" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'matricule'.
+</violation>
+<violation beginline="20" endline="20" begincolumn="20" endcolumn="22" rule="UnusedPrivateField" ruleset="Best Practices" package="tn.insat.domain" class="Employe" variable="nom" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'nom'.
+</violation>
+<violation beginline="25" endline="25" begincolumn="18" endcolumn="22" rule="UnusedPrivateField" ruleset="Best Practices" package="tn.insat.domain" class="Employe" variable="grade" externalInfoUrl="https://pmd.github.io/pmd-6.4.0/pmd_rules_java_bestpractices.html#unusedprivatefield" priority="3">
+Avoid unused private fields such as 'grade'.
+</violation>
+</file>
+</pmd>
